@@ -1,4 +1,4 @@
-# JKU-AUSTRIA
+# Johannes Kepler University Linz - JKU (Johannes Kepler Universität Linz - JKU), Austria
 
 # SEMESTER 1 - 2018 WS
 * Ethics and Gender Studies Biology, Ethics and Gender
@@ -50,3 +50,5 @@
 * Computer Graphics
 * Formal Models
 * Master Project
+* 
+
