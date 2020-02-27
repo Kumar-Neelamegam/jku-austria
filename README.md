@@ -1,4 +1,4 @@
-# Johannes Kepler University Linz - JKU (Johannes Kepler Universität Linz - JKU), Austria
+# Johannes Kepler University (JKU) Linz, Austria
 
 # SEMESTER 1 - 2018 WS
 * Ethics and Gender Studies Biology, Ethics and Gender
